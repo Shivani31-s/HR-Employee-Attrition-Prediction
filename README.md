@@ -124,17 +124,3 @@ Improve employee satisfaction
 
 Reduce recruitment and training costs
 
-📁 Repository Structure
-HR-Employee-Attrition-Prediction/
-│
-├── HR_Attrition_Project_Shivani.ipynb
-├── HR_Attrition_Report.pdf
-├── screenshots/
-└── README.md
-🚀 Future Improvements
-
-Hyperparameter tuning for better performance
-
-Use SHAP for advanced model explainability
-
-Deploy model using Streamlit for interactive prediction
